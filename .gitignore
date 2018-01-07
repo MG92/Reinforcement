@@ -77,3 +77,6 @@ tox.ini
 
 #cookiecutter stuff
 #Makefile
+
+#OS specific
+.DS_Store
