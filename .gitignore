@@ -71,6 +71,7 @@ target/
 
 # exclude data from source control by default
 /data/
+dennybritz/
 
 #virtualenv package mgmt
 tox.ini
@@ -80,3 +81,4 @@ tox.ini
 
 #OS specific
 .DS_Store
+
